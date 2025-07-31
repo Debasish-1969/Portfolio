@@ -1,11 +1,10 @@
 var cursor = {
-  delay: 8,
-  _x: 0,
-  _y: 0,
-  endX: window.innerWidth / 2,
+  delay: 8,                      // Delay/smoothness factor for the outline movement
+  _x: 0, _y: 0,                  // Internal cursor outline position
+  endX: window.innerWidth / 2,   // Target position for cursor (starts in center)
   endY: window.innerHeight / 2,
-  cursorVisible: true,
-  cursorEnlarged: false,
+  cursorVisible: true,           // Whether cursor should be shown
+  cursorEnlarged: false,         // Whether cursor is enlarged (e.g., on hover)
   $dot: document.querySelector(".cursor-dot"),
   $outline: document.querySelector(".cursor-dot-outline"),
   lastScrolledLeft : 0, // For changing position of cursor with scrolling
