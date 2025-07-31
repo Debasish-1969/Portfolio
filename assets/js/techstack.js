@@ -30,9 +30,9 @@ const techStack = [
     langDesc: "<li>Python is an interpreted high-level general-purpose programming language</li>",
   },
   {
-    langImage: "assets/images/techstack-page/cpp.png",
-    langName: "C++",
-    langDesc: "<li>C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes</li>",
+    langImage: "assets/images/techstack-page/java.png",
+    langName: "Java",
+    langDesc: "<li>Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.</li>",
   },
   {
     langImage: "assets/images/techstack-page/git.png",
@@ -50,9 +50,34 @@ const techStack = [
     langDesc: "<li>React is a free and open-source front-end JavaScript library for building user interfaces based on UI components</li>",
   },
   {
-    langImage:"assets/images/techstack-page/c.png",
-    langName:"C",
-    langDesc:"<li>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>"
+    langImage:"assets/images/techstack-page/next.png",
+    langName:"Next.js",
+    langDesc:"<li>Next.js is an open-source React framework developed by Vercel that enables the creation of highly performant and SEO-friendly web applications.</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/sql.png",
+    langName:"MySQL",
+    langDesc:"<li>MySQL is a widely used and popular open-source relational database management system (RDBMS) that utilizes Structured Query Language (SQL) for storing, managing, and retrieving data. </li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/postgre.png",
+    langName:"PostgreSQL",
+    langDesc:"<li>PostgreSQL is a powerful, open-source object-relational database management system (ORDBMS). It is known for its robust features, reliability, and performance, particularly when handling complex queries and large datasets.</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/mongodb.png",
+    langName:"MongoDB",
+    langDesc:"<li>MongoDB is an open-source, non-relational database management system (DBMS) that stores data in flexible, JSON-like documents.</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/firebase.png",
+    langName:"Firebase Authentication",
+    langDesc:"<li>Firebase Authentication is a backend service provided by Google Firebase that simplifies the process of authenticating users in applications.</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/vercel.png",
+    langName:"Vercel",
+    langDesc:"<li>Vercel is a cloud platform that provides developer tools and infrastructure to build, deploy, and scale web applications and websites.</li>"
   },
 ];
 
