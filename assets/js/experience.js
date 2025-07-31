@@ -15,7 +15,7 @@ const exp = [
     title: "Web developer Intern",
     cardImage: "assets/images/experience-page/VOC.png",
     place: "Vault Of Codes",
-    time: "(July, 2025 - present)",
+    time: "(July, 2025 - August, 2025)",
     desp: "<li>Working on frontend and responsive web design using HTML, CSS, JavaScript, and frameworks.</li><li>Building dynamic UI components and enhancing page performance, and learning how to integrate APIs and backend services into websites.</li><li>Participating in peer code reviews and task management workflows.",
   },
   {

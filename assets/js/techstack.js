@@ -20,6 +20,11 @@ const techStack = [
     langDesc: "<li>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS</li>",
   },
   {
+    langImage: "assets/images/techstack-page/java.png",
+    langName: "Java",
+    langDesc: "<li>Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.</li>",
+  },
+  {
     langImage: "assets/images/techstack-page/node.png",
     langName: "Node",
     langDesc: "<li>Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser</li>",
@@ -29,17 +34,7 @@ const techStack = [
     langName: "Python",
     langDesc: "<li>Python is an interpreted high-level general-purpose programming language</li>",
   },
-  {
-    langImage: "assets/images/techstack-page/java.png",
-    langName: "Java",
-    langDesc: "<li>Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.</li>",
-  },
-  {
-    langImage: "assets/images/techstack-page/git.png",
-    langName: "Git",
-    langDesc: "<li>Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.</li>",
-  },
-  {
+    {
     langImage: "assets/images/techstack-page/bootstrap.png",
     langName: "Bootstrap",
     langDesc: "<li>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development</li>",
@@ -68,6 +63,11 @@ const techStack = [
     langImage:"assets/images/techstack-page/mongodb.png",
     langName:"MongoDB",
     langDesc:"<li>MongoDB is an open-source, non-relational database management system (DBMS) that stores data in flexible, JSON-like documents.</li>"
+  },
+  {
+    langImage: "assets/images/techstack-page/git.png",
+    langName: "Git",
+    langDesc: "<li>Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.</li>",
   },
   {
     langImage:"assets/images/techstack-page/firebase.png",
